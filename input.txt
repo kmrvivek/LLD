@@ -1,0 +1,7 @@
+Register_restaurant,Food Court-1,BTM/HSR,NI Thali,100,5
+Show_restaurant,BTM
+Show_restaurant,HSR
+register_restaurant,Food Court-2,BTM,Burger,120,3
+Show_restaurant,BTM
+
+
